@@ -61,7 +61,7 @@
 # Teams
 
   강동욱
-  
+    
     역할
     
     핵심기여역량
@@ -76,14 +76,14 @@
     
     사진
     
-  천명철(committer)
+  천명철(Committer)
   
     역할 : 팀장
     
     핵심기여역량 : 깃허브관리(??), 아두이노 설치...(?)
     
-    ![Alt text](/1.jpg)
 ![Alt text](/1.jpg)
+<img src="1.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 # 개발환경
 
