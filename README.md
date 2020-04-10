@@ -42,31 +42,27 @@
   
   (이부분은 내일 일기예보에 의존할건지, 아니면 CNN을 좀더 고급지게 트레이닝해서 입력값 없이도 내일 수치 나오게할수있을지??)
   
-  추가로 WHO에서 정한 미세먼지 등급체계에 따라 위험 레벨까지 안내
+  이 CNN 프로그램은 서버에 상주, 소비자가 쓸 수 있는(분석결과를 알려주는) <안드로이드 앱 or 웹 페이지> 까지 따로 제작
+  
+  +추가로 WHO에서 정한 미세먼지 등급체계에 따라 위험레벨 안내
   
 # (예상)시스템 구성도
   
-  대략 7~8개의 빌딩블록으로,  그리고 빌딩블록중에는 클라이언트 사이드가 있고, 서버사이드가 있겠고,
-  클라이언트 사이드이네느 뭔지 센서가 있겠고, 인터넷 그리모 들어가겠고,  서버사이드에는 database도 있겠고,
-  AI 분석 부분도 있겠고, 분석결과를 소비자에게 전달,연결하는 앱이든 액튜에이터든 그런게 있을 것 같습니다.
-  
-  각 블록다이어그램에 구체적 명칭을 씁니다.  명칭의 예는, esp32보드,  aws ubuntu, node.js/express, GPS센서, 자이로/가속기센서, ... 등등
-  대략 이런 정도 느낌을 주면 됩니다. [->링크보기](https://www.google.com/search?q=%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8+%EC%84%9C%EB%B2%84+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B5%AC%EC%84%B1%EB%8F%84+%EA%B7%B8%EB%A6%AC%EA%B8%B0&tbm=isch&ved=2ahUKEwjM64WJptjoAhVWyosBHeFSC3QQ2-cCegQIABAA&oq=%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8+%EC%84%9C%EB%B2%84+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B5%AC%EC%84%B1%EB%8F%84+%EA%B7%B8%EB%A6%AC%EA%B8%B0&gs_lcp=CgNpbWcQA1CgpAFY1tIBYJDUAWgIcAB4BoABcogBuB6SAQUxMC4yOJgBAKABAaoBC2d3cy13aXotaW1n&sclient=img&ei=_HuNXsz9HdaUr7wP4aWtoAc&bih=1098&biw=1214#imgrc=g0kmuPL1x7CRtM)
- 
-  
+  <img src="system.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
+
 # 기대성과
   
+  일상생활에서 
   눈이오나 비가오나 야외작업하는 노동자(야가다꾼)들에게 도움이될 것 같습니다.
   
 # Teams
-
+  
   강동욱
   
     역할
-    
+  
     핵심기여역량
-    
-    사진
     
   오새암
   
@@ -76,11 +72,11 @@
     
     사진
     
-  천명철(Committer)
+  천명철
   
-    역할 : 팀장
+    역할 : 팀장(Committer)
     
-    핵심기여역량 : 깃허브관리, 아두이노 설치
+    핵심기여역량 : 아두이노 설치
     
 <!--![Alt text](/1.jpg)-->
 <img src="1.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
