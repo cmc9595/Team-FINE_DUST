@@ -56,7 +56,7 @@
   
 # 기대성과
   
-  눈이오나 비가오나 야외에서 작업하는 야가다꾼들에게 큰 도움이될 것 같습니다.
+  눈이오나 비가오나 야외에서 작업하는 노동자들에게 도움이될 것 같습니다.
   
 # Teams
 
@@ -84,7 +84,7 @@
     
     <img src="/Desktop/1.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
     사진
-    
+![Alt text](/1.jpg)
 
 # 개발환경
 
