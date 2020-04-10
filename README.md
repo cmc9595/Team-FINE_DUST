@@ -48,7 +48,7 @@
   
 # (예상)시스템 구성도
   
-  <img src="system.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+  <img src="system.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="SYSTEM"></img>
 
 
 # 기대성과
