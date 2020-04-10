@@ -82,8 +82,7 @@
     
     핵심기여역량 : 깃허브관리(??), 아두이노 설치...(?)
     
-    <img src="/Desktop/1.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-    사진
+    ![Alt text](/1.jpg)
 ![Alt text](/1.jpg)
 
 # 개발환경
