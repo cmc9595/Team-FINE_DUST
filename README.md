@@ -26,7 +26,7 @@
   
 # 어떻게 푸는가?
   
-  아두이노 미세먼지 키트[여기 만들기 가이드](http://eduiot.kr/wp-content/uploads/2017/11/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EC%B8%A1%EC%A0%95%EA%B8%B0-3D-KIT-%EB%A7%8C%EB%93%A4%EA%B8%B0-v2.pdf)를 이용해 비교적 정확한 대기상태를 측정하기위해 고도가 높은 아파트 창문밖에 설치 (컴터랑 연결)
+  아두이노 미세먼지 키트[~~여기 만들기 가이드~~](http://eduiot.kr/wp-content/uploads/2017/11/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EC%B8%A1%EC%A0%95%EA%B8%B0-3D-KIT-%EB%A7%8C%EB%93%A4%EA%B8%B0-v2.pdf)를 이용해 비교적 정확한 대기상태를 측정하기위해 고도가 높은 아파트 창문밖에 설치 (컴터랑 연결)
   
   여기에 같이 실시간 대기정보를 알수있는 풍속센서, 습도센서, 온도센서도 설치
   
