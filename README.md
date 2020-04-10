@@ -48,7 +48,7 @@
   
 # (예상)시스템 구성도
   
-  <img src="system.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="SYSTEM"></img>
+  <img src="system.png" width="100%" height="100%" title="" alt="SYSTEM"></img>
 
 
 # 기대성과
@@ -79,7 +79,7 @@
     핵심기여역량 : 아두이노 설치
     
 <!--![Alt text](/1.jpg)-->
-<img src="1.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="1.jpg" width="40%" height="30%" title="천명철" alt="RubberDuck"></img>
 
 # 개발환경
 
