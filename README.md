@@ -83,7 +83,7 @@
 
 # 개발환경
 
-  개발 도구 : github, slack, kakao-talk
+- 개발 도구 : github, slack, kakao-talk
   
-  개발 방식 : github 중심의 pull request 방식으로 agile 개발.
+- 개발 방식 : github 중심의 pull request 방식으로 agile 개발.
  
