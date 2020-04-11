@@ -53,7 +53,7 @@
  
 # (예상)시스템 구성도
   
-  <img src="system.png" width="100%" height="100%" title="" alt="SYSTEM"></img>
+  <img src="/img/system.png" width="100%" height="100%" title="" alt="SYSTEM"></img>
 
 
 
@@ -86,7 +86,7 @@
     핵심기여역량 : 
     
 <!--![Alt text](/1.jpg)-->
-<img src="1.jpg" width="40%" height="30%" title="천명철" alt="RubberDuck"></img>
+<img src="/img/1.jpg" width="40%" height="30%" title="천명철" alt="RubberDuck"></img>
 
 
 # 개발환경
